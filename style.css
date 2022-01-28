@@ -1,0 +1,17 @@
+img{
+    width: 100px;
+    height: 100px;
+    object-fit: cover;
+    border-radius: 500%;
+}
+
+h1{
+    color: brown;
+}
+
+.container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
